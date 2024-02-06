@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw_5_5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="love_calculator_tv" />
+    <string name="you_tv" />
+    <string name="me_tv" />
+    <string name="calculate_btn" />
+</resources>
