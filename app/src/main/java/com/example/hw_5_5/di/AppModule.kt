@@ -2,7 +2,7 @@ package com.example.hw_5_5.di
 
 import android.content.Context
 import android.content.SharedPreferences
-import com.example.hw_5_5.local.Pref
+import com.example.hw_5_5.data.local.Pref
 import com.example.hw_5_5.remote.LoveApi
 import dagger.Module
 import dagger.Provides

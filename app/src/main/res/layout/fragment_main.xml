@@ -44,4 +44,11 @@
         android:layout_marginVertical="8dp"
         android:text="Calculate"
         android:textSize="24sp"/>
+    <Button
+        android:id="@+id/btn_history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#2D59DC"
+        android:text="@string/history_btn"
+        android:textSize="24sp" />
     </LinearLayout>

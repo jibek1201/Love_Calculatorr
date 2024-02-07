@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.example.hw_5_5.R
 import com.example.hw_5_5.databinding.FragmentOnBoardingBinding
-import com.example.hw_5_5.local.Pref
+import com.example.hw_5_5.data.local.Pref
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

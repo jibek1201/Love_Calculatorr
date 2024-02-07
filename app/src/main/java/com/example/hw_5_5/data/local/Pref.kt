@@ -1,4 +1,4 @@
-package com.example.hw_5_5.local
+package com.example.hw_5_5.data.local
 
 import android.content.SharedPreferences
 import javax.inject.Inject

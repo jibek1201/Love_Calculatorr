@@ -6,7 +6,7 @@ import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import com.example.hw_5_5.R
 import com.example.hw_5_5.databinding.ActivityMain2Binding
-import com.example.hw_5_5.local.Pref
+import com.example.hw_5_5.data.local.Pref
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
